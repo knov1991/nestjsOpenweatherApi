@@ -1,7 +1,7 @@
 ### GetTempo
-GET http://localhost:3000/Sao Paulo
+GET http://localhost:3000/tempo/London
 Content-Type: application/json
 
 ### HelloWorld
-GET http://localhost:3000/
+GET http://localhost:3000/tempo/aaa
 Content-Type: application/json
