@@ -1,0 +1,7 @@
+### GetTempo
+GET http://localhost:3000/Sao Paulo
+Content-Type: application/json
+
+### HelloWorld
+GET http://localhost:3000/
+Content-Type: application/json
